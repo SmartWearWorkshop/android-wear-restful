@@ -11,7 +11,7 @@
 
 ## GET /1/price/gold
 
-* Grab live gold price from (usagold.com)[http://www.usagold.com/mobile/]
+* Grab live gold price from [usagold.com](http://www.usagold.com/mobile/)
 
 ### Query String Parameters
 
